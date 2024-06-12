@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Mateus Oliveira
 <div>
-  - 🎓 Curso Análise e Desenvolvimento de Sistemas<br>
+  - 🎓 Análise e Desenvolvimento de Sistemas<br>
   - 📖 Estudando Javascript & SQL | Desenvolvimento Full Stack <br>
   - 🌎 Visite minha página pessoal: https://mateusolv.netlify.app/
 </div>
