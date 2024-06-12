@@ -2,6 +2,7 @@
 <div>
   - 🎓 Curso Análise e Desenvolvimento de Sistemas<br>
   - 📖 Estudando Javascript & SQL
+  - ⌨️ Desenvolvimento Full Stack
 </div>
 
 
