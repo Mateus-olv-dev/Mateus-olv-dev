@@ -6,7 +6,7 @@
 
 
 <div><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-olv-dev&layout=compact&show_icons=true&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-olv-dev&layout=compact&show_icons=true&theme=github_dark" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 
