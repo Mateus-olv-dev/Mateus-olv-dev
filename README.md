@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Mateus Oliveira
 <div>
   - 🎓 Curso Análise e Desenvolvimento de Sistemas<br>
-  - 📖 Estudando Javascript & SQL
+  - 📖 Estudando Javascript & SQL<br>
   - ⌨️ Desenvolvimento Full Stack
 </div>
 
