@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Mateus Oliveira
 <div>
-  - 🎓 Análise e Desenvolvimento de Sistemas<br>
   - 📖 Estudando Desenvolvimento Web | Desenvolvimento Mobile - Flutter <br>
   - 🌎 Visite minha página pessoal: https://mateusoliveira.site
 </div>
