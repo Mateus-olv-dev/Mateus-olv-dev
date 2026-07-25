@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Mateus Oliveira
 <div>
   - 📖 Estudando Desenvolvimento Web | Desenvolvimento Mobile - Flutter <br>
-  - 🌎 Visite minha página pessoal: [https://mateusoliveira.site](https://mateusolv.netlify.app/)
+  - 🌎 Visite minha página pessoal: https://mateusolv.netlify.app/
 </div>
 
 
